@@ -1,5 +1,5 @@
 import unittest
-from maxAndMinValues import findMaxMin
+from maxAndMinNumbers import findMaxMin
 class MaxMinTest(unittest.TestCase):
     """docstring for MaxMinTest"""
 
